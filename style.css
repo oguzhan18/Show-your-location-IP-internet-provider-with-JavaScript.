@@ -1,0 +1,10 @@
+#sistem
+{
+    background-color: rgb(61, 61, 61);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: 2%;
+    right:1% ;
+    font-weight: bolder;
+    box-shadow: 8px 10px rgb(26, 25, 25);
+}
